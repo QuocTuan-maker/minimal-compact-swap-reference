@@ -21,7 +21,7 @@ The core of this repository is the Rust-based Compact Contract, demonstrating th
 This project requires the Midnight SDK (Compact environment) and standard Rust tooling.
 
 ### 1. Setup and Build
-1. Clone the repository: `git clone [Dán URL GitHub của bạn vào đây]`
+1. Clone the repository: `git clone [(https://github.com/QuocTuan-maker)]`
 2. Navigate to the contract directory: `cd minimal-compact-swap-reference/compact-contract`
 3. Build the contract (requires Midnight SDK setup): `cargo build --release`
 
